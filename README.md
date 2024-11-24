@@ -69,7 +69,7 @@ A multi-feature Telegram bot for task management and automation:
 📬 How to Reach Me
 ----------------------
 - Email: olagunjunifemi6@gmail.com
-- Linkedin:
+- Linkedin: www.linkedin.com/in/matthew-olagunju
 - Phone number: +2348129579867
 - GitHub: https://github.com/Matthew-123-dev
 
