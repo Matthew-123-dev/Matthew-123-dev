@@ -1,6 +1,6 @@
 Hi there! 👋🏽 I'm Olagunju Matthew  
 ========================
-Welcome to my GitHub profile! I'm an aspiring **Python Backend Engineer** and **IoT
+Welcome to my GitHub profile! I'm a **Python Backend Engineer** and **IoT
 enthusiast** with a strong interest in **Agritech, precision agriculture**, and **AI/ML**.
 My projects reflect my passion for building impactful solutions that combine software,
 hardware, and emerging technologies.
